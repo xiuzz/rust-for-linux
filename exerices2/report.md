@@ -26,3 +26,4 @@ make ARCH=arm64 LLVM=1 O=build menuconfig
 
 手动insmod一下 /lib/rust_helloworld.ko
 ![Alt text](image-8.png)
+![Alt text](image-9.png)
